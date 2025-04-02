@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/teb_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/move_base/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/navfn/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/global_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/dwa_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/base_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/costmap_2d/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/amcl/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/cartographer_ros_msgs/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/liuxiao/ME5413_Final_Project/devel_isolated/cartographer/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/amcl/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/base_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/carrot_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/clear_costmap_recovery/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/costmap_2d/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/dwa_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/global_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/interactive_tools/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/map_server/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/me5413_perception/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/me5413_schedule/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/me5413_world/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/move_base/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/move_slow_and_clear/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/nav_core/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/navfn/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/rotate_recovery/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/teb_local_planner/include/**",
+        "/home/liuxiao/ME5413_Final_Project/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
